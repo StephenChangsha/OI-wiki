@@ -210,7 +210,7 @@ int lca(int u, int v) {
 
 ## 例题
 
-###  [「ZJOI2008」树的统计](https://loj.ac/problem/10138) 
+###  [「ZJOI2008」树的统计](https://www.luogu.com.cn/problem/P2590) 
 
 #### 题目大意
 
